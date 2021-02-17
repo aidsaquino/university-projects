@@ -1,0 +1,15 @@
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\bin\Release\ES26_PROJECT.exe
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\bin\Release\ES26_PROJECT.pdb
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\bin\Release\ES26_PROJECT.xml
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\WindowsApplication1.frmRLC.resources
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\WindowsApplication1.frmSER.resources
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\WindowsApplication1.frmPAR.resources
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\WindowsApplication1.frmRPS.resources
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.vbproj.GenerateResource.Cache
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.exe
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.xml
+C:\Users\Leroidepique\documents\visual studio 2010\Projects\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.pdb
+C:\Users\Leroidepique\Documents\Files\College Files\ENSC EE Series\ENSC 26\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.exe
+C:\Users\Leroidepique\Documents\Files\College Files\ENSC EE Series\ENSC 26\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.xml
+C:\Users\Leroidepique\Documents\Files\College Files\ENSC EE Series\ENSC 26\ES26_PROJECT\ES26_PROJECT\obj\x86\Release\ES26_PROJECT.pdb
