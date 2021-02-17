@@ -1,3 +1,5 @@
+/* This program is a simple sudoku game, which serves as a final requirement for the Course: Programming in C, which I took on my first year */
+
 #include <stdio.h>
 
 void printIntro();
